@@ -1,5 +1,5 @@
 import { Header } from './components/Header';
-import { Post } from './components/Post'
+import { Post } from './components/Post';
 import { Sidebar } from './components/Sidebar';
 
 import styles from './App.module.css';
@@ -12,7 +12,7 @@ const posts = [
     author: {
       avatarUrl: "https://github.com/marechal-dev.png",
       name: "Pietro Vieira",
-      role: "Back-End Developer @ iTec"
+      role: "FullStack Developer @ Nelogica"
     },
     content: [
       {
